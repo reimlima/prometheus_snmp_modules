@@ -21,7 +21,8 @@ HP Proliant BL460c (Gen8, Gen10)
 ## How to use these Modules
 
 1. Add the chosen file as a block in your snmp.yml file.
-2. See down below how to configure the respective module in your Prometheus configuration file.
+2. Change the field "community: yourveryowncommunity" adding your very own snmp community.
+3. See down below how to configure the respective module in your Prometheus configuration file.
 
 ## Numbers and Status
 
